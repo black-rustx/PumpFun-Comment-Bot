@@ -1,41 +1,79 @@
-# Pump.Fun Comment Bot
-An open-source comment bot for Pump.Fun. Thread mode or Shill mode available.
 
 
-## Overview
+# 🤖 **Pump.Fun Comment Bot** 🚀
 
-This bot is designed to automate the process of posting comments on your projects, ensuring high engagement and authentic interactions. It comes with a user-friendly interface, human-generated comments, versatile modes, and top-notch anti-captcha software. 
+An **open-source comment bot** for **Pump.Fun** that offers two powerful modes: **Thread Mode** and **Shill Mode**. Maximize engagement and visibility with **human-generated comments** and **anti-captcha** technology. 🔥
 
+---
 
-In order to be update to date or get support, join us at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+## 📋 **Overview**
 
-## Features
+The **Pump.Fun Comment Bot** automates the process of posting comments on your projects to increase interaction and visibility. Whether you're in **Shill Mode** or **Thread Mode**, this bot offers an efficient and seamless commenting experience. 🚀
 
-### Effortless User Interface
-Navigate through a sleek and intuitive design that simplifies the process of mass commenting on your projects. The user interface is designed to be accessible for all, ensuring a smooth experience.
+- **High engagement**: Post authentic comments effortlessly.
+- **Human-generated comments**: No AI nonsense here, only real, handpicked feedback! 🙌
+- **Anti-captcha**: Automatically solves captcha for smooth, uninterrupted posting. 🛡️
 
-### Randomized Human-Generated Comments
-Forget about AI gibberish! We've handpicked the finest comments from top projects to ensure authenticity and engagement. Each comment is crafted to appear genuine, boosting the credibility of your posts.
+---
 
-### Versatile Modes
-1. **Fresh Wallets:** Generate fresh wallets and post comments using them! This feature is perfect for creating new identities and ensuring your comments are seen as coming from unique sources.
-2. **Import Wallets:** Import wallets from any of my tools to use in the bot! This allows for seamless integration with your existing tools and strategies.
-3. **Shill Mode:** Choose between fresh or dev wallets to post shills on the most recently traded coins. This mode supports both images and text, making your promotions more dynamic and engaging.
+## 🌟 **Features**
 
-### Captcha Detection & Solution
-Our bot includes the best anti-captcha software, ensuring smooth and uninterrupted commenting. Enjoy the benefits of automatic captcha solving, saving you time and effort.
+### 🖥️ **Effortless User Interface**
+Navigate through an intuitive design that makes mass commenting a breeze. Easy-to-use and accessible for both beginners and advanced users! 🌈
 
-## Installation
+### 💬 **Randomized Human-Generated Comments**
+Tired of AI-generated gibberish? Our comments are crafted by humans, ensuring authenticity and boosting the credibility of your posts. Each comment is randomized and tailored for engagement! 🎯
 
-To get started with the Best Comment Bot for Pump.Fun, install the requirements:
-```
+### ⚙️ **Versatile Modes**
+Choose between two powerful modes:
+
+#### 1. **Fresh Wallets** 💼
+Generate fresh wallets and use them to post comments. Ideal for creating new, unique identities to boost your project's visibility. Perfect for those who want to ensure that each comment comes from a different source.
+
+#### 2. **Import Wallets** 🔑
+Already using my other tools? Import your wallets directly into the bot for a smooth, integrated experience. No need to start from scratch!
+
+#### 3. **Shill Mode** 🚀
+Post shills on the most actively traded coins. Select between **fresh wallets** or **dev wallets** to promote your projects dynamically. Shill Mode supports both **images** and **text**, making your posts more engaging and creative.
+
+### 🛡️ **Captcha Detection & Solution**
+No more interruptions! The bot automatically detects and solves captchas, so you can focus on promoting your projects without worrying about delays. 📶
+
+---
+
+## 🛠️ **Installation**
+
+Follow these steps to get started with the **Pump.Fun Comment Bot**:
+
+### 1. **Install Dependencies**
+
+Run the following command to install the necessary packages:
+
+```bash
 npm install fs readline axios chalk https-proxy-agent socks-proxy-agent
 ```
 
-Execute the script
-```
+### 2. **Execute the Script**
+
+Once dependencies are installed, run the bot with:
+
+```bash
 node main.js
+```
 
-````
+---
 
- In order to be update to date or get support, join us at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+## 📞 Author
+
+Telegram: [@g0drlc](https://t.me/g0drlc)
+
+
+---
+
+## 📝 **License**
+
+This project is **open-source** and licensed under the [MIT License](LICENSE).
+
+---
+
+Start boosting your engagement on Pump.Fun today with the **Pump.Fun Comment Bot**! 🔥🚀
